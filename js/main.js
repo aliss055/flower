@@ -3,7 +3,7 @@ onload = () => {
     const c = setTimeout(() => {
       document.body.classList.remove("not-loaded");
   
-      const titles = ('De tus flores amarillas mailobe, si, son blancas pwro ekis nome importa').split('')
+      const titles = ('tus flores amarillas chikis').split('')
       const titleElement = document.getElementById('title');
       let index = 0;
   
